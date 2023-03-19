@@ -1,8 +1,8 @@
 {
   "name": "myapp",
   "version": "0.1.0",
+  "homepage": "https://hamzaidb.github.io/appreact/",
   "private": true,
-  "homepage": "https://hamzaidb.github.io/AppReact/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
